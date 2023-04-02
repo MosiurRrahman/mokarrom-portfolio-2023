@@ -5146,8 +5146,9 @@ ul.social-four{
   text-align: center;
 
   img{
-    height: 250px;
+    height: 270px;
     object-fit: cover;
+    width: 100%;
   }
 
   @include md-down-device(){
